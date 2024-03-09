@@ -49,7 +49,7 @@
         color: var(--cor-preto);
         font-family: var(--font-btn-banner);
         padding: 1rem;
-        border: 6px solid var(--cor-laranja);
+        border: 6px solid var(--cor-azul-light);
         border-radius: 6px;
         display: flex;
         align-items: center;
@@ -65,7 +65,7 @@
         color: var(--cor-preto);
         font-family: var(--font-btn-banner);
         padding: 1rem 2.4rem 1rem 1rem;
-        border: 6px solid var(--cor-laranja);
+        border: 6px solid var(--cor-azul-light);
         border-radius: 6px;
         display: flex;
         align-items: center;
@@ -73,13 +73,13 @@
     }
 
     .linkGitHub:hover {
-        background-color: var(--cor-tomato);
+        background-color: var(--cor-azul-dark);
         border: 6px solid var(--cor-branco);
         transition: .3s;
     }
 
     .linkLinkedin:hover {
-        background-color: var(--cor-tomato);
+        background-color: var(--cor-azul-dark);
         border: 6px solid var(--cor-branco);
         transition: .3s;
     }
@@ -91,7 +91,7 @@
     }
 
     .imgBanner {
-        max-width: 380px;
+        max-width: 400px;
         border-radius: 50%;
         transition: .4s;
     }
@@ -107,7 +107,7 @@
     .cardProjects {
         width: 100%;
         color: var(--cor-preto);
-        background-color: var(--cor-branco);
+        background-color: var(--cor-azul-light);
         border: 2px solid var(--cor-branco);
         border-radius: 4px;
         cursor: default;
@@ -126,8 +126,9 @@
     .repGitHub {
         text-decoration: none;
         font-size: 1rem;
+        background-color: var(--cor-branco);
         color: var(--cor-preto);
-        border: 2px solid var(--cor-laranja);
+        border: 2px solid var(--cor-azul-dark);
         border-radius: 4px;
         padding: 0.2rem 0.1rem;
         margin: 1.2rem 2.4rem;
@@ -137,7 +138,7 @@
     }
     
     .repGitHub:hover {
-        background-color: var(--cor-laranja);
+        background-color: var(--cor-azul-dark);
         border: 2px solid var(--cor-preto);
     }
 
@@ -229,7 +230,7 @@
         background-color: var(--cor-branco);
         color: var(--cor-preto);
         font-family: var(--font-btn-banner);
-        border: 6px solid var(--cor-laranja);
+        border: 6px solid var(--cor-azul-light);
         border-radius: 6px;
         display: flex;
         align-items: center;
@@ -243,7 +244,7 @@
         background-color: var(--cor-branco);
         color: var(--cor-preto);
         font-family: var(--font-btn-banner);
-        border: 6px solid var(--cor-laranja);
+        border: 6px solid var(--cor-azul-light);
         border-radius: 6px;
         display: flex;
         align-items: center;
@@ -267,7 +268,7 @@
     .cardProjects {
         width: 100%;
         color: var(--cor-preto);
-        background-color: var(--cor-branco);
+        background-color: var(--cor-azul-light);
         border: 2px solid var(--cor-branco);
         border-radius: 4px;
         cursor: default;
@@ -287,8 +288,9 @@
         max-width: 290px;
         text-decoration: none;
         font-size: 1rem;
+        background-color: var(--cor-branco);
         color: var(--cor-preto);
-        border: 2px solid var(--cor-laranja);
+        border: 2px solid var(--cor-azul-dark);
         border-radius: 4px;
         padding: 0.2rem 0.1rem;
         display: flex;
@@ -297,7 +299,7 @@
     }
     
     .repGitHub:hover {
-        background-color: var(--cor-laranja);
+        background-color: var(--cor-azul-dark);
         border: 2px solid var(--cor-preto);
     }
 
@@ -354,7 +356,7 @@
     }
     
     .linkMenuDesktop:hover{
-        color: var(--cor-laranja);
+        color: var(--cor-azul-light);
     }
 
     .menuWeb {
@@ -403,7 +405,7 @@
         gap: 0;
         padding-left: 0px;
         position: absolute;
-        background-color: var(--cor-laranja);
+        background-color: var(--cor-azul-light);
         flex-direction: column;
         transition: 0.3s;
     }

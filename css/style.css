@@ -27,7 +27,7 @@ form {
     padding: 0px;
     margin: 0px;
     border: 0px;
-    background-color: var(--cor-laranja);
+    background-color: var(--cor-azul-light);
     color: var(--cor-branco);
     font-family: Montserrat-Regular;
 }
@@ -82,7 +82,7 @@ form {
 
 .iconeAt {
     font-size: 4.2rem;
-    color: var(--cor-laranja);
+    color: var(--cor-azul-light);
 }
 
 .iconeAt:hover {
@@ -95,7 +95,7 @@ form {
 }
 
 .nome:hover {
-    color: var(--cor-laranja);
+    color: var(--cor-azul-light);
     cursor: default;
 }
 
@@ -104,7 +104,7 @@ form {
 }
 
 .funcao:hover {
-    color: var(--cor-laranja);
+    color: var(--cor-azul-light);
     cursor: default;
 }
 
@@ -113,7 +113,7 @@ form {
 }
 
 .descricao:hover {
-    color: var(--cor-laranja);
+    color: var(--cor-azul-light);
     cursor: default;
 }
 
@@ -139,7 +139,7 @@ form {
 /* Quem sou */
 .about {
     padding: 2.4rem 0.8rem;
-    background-color: var(--cor-laranja);
+    background-color: var(--cor-azul-light);
     color: var(--cor-branco);
     text-align: center;
     cursor: default;
@@ -204,7 +204,7 @@ form {
 
 /* Contato */
 .contact {
-    background-color: var(--cor-laranja);
+    background-color: var(--cor-azul-light);
     color: var(--cor-branco);
     text-align: center;
 }
@@ -298,7 +298,7 @@ form {
 }
 
 .btnForm:hover {
-    background-color: var(--cor-laranja);
+    background-color: var(--cor-azul-light);
     border: 2px solid var(--cor-preto);
 }
 
