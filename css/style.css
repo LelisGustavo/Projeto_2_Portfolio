@@ -295,11 +295,13 @@ form {
     cursor: pointer;
     text-transform: uppercase;
     font-weight: bold;
+    transition: 1s;
 }
 
 .btnForm:hover {
-    background-color: var(--cor-azul-light);
-    border: 2px solid var(--cor-preto);
+    background-color: var(--cor-azul-dark);
+    border: 2px solid var(--cor-branco);
+    transition: 1s;
 }
 
 .mapsCt {
