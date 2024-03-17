@@ -1,4 +1,6 @@
-Projeto desenvolvido em Turma, uma Landing Page utilizando técnologias de Front-End.
+💻📚🖊️
+
+Projeto **"Meu Portfólio"** desenvolvido em Turma com o Pofessor Alisson Rocha, da escola Wladimir Barros Treinamento em TI, uma Landing Page utilizando técnologias de Front-End.
 
 Técnologias utilizadas no Projeto:
 
@@ -9,5 +11,4 @@ Técnologias utilizadas no Projeto:
 - Instalação de Font.
 - Javascript Nativo (Validação de Campos em Formulário / Menu Mobile).
 
-Acesso ao Projeto (Git Page): 
-https://lelisgustavo.github.io/Projeto_2_Portfolio/
+[Veja o Projeto!](https://lelisgustavo.github.io/Projeto_2_Portfolio/)
